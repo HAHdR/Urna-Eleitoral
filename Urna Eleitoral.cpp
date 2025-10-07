@@ -1,3 +1,6 @@
+// Urna Eletronica - 10/10/2024
+//Autor: Henrique Abreu Hollanda da Rocha
+
 #include	<stdio.h>
 #include	<stdlib.h>
 
@@ -430,4 +433,5 @@ int main()
 		printf("\n\n\t\tFIM!\n\n");
 		exit(0);
 	}
+
 }
